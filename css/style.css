@@ -237,7 +237,9 @@ ol {
   left: 0;
   top: 0;
   width: 100%;
-  background: #60883e;
+  background-color: #20bf55;
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+
   -webkit-box-shadow: 0 5px 10px rgba(154, 87, 87, .1);
   box-shadow: 0 5px 10px rgba(154, 87, 87, .1)
 }
@@ -796,7 +798,9 @@ display:block;
   vertical-align: middle
 }
 .footer {
-  background: #60883e;
+  background-color: #20bf55;
+  background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+
   padding-top: 65px;
 }
 .footer__top {
@@ -809,7 +813,7 @@ display:block;
   margin-right: 55px;
 }
 .footer__subscribe__text h4 {
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   margin-bottom: 10px
 }
