@@ -336,9 +336,9 @@ display:block;
   z-index: 9;
   opacity: 0;
   visibility: hidden;
-  -webkit-transition: all, 1s;
-  -o-transition: all, 1s;
-  transition: all, 1s
+  -webkit-transition: all, .5s;
+  -o-transition: all, .5s;
+  transition: all, .5s
 }
 .header__menu ul li .dropdown li {
   display: block;
@@ -374,9 +374,9 @@ display:block;
   margin: 0 auto;
   border-radius: 50%;
   opacity: 0;
-  -webkit-transition: all, .3s;
-  -o-transition: all, .3s;
-  transition: all, .3s
+  -webkit-transition: all, .5s;
+  -o-transition: all, .5s;
+  transition: all, .5s
 }
 .header__right {
   text-align: right;
