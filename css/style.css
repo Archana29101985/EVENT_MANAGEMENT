@@ -384,9 +384,9 @@ display:block;
   display: inline-block;
 }
 .header__right__social a {
-  font-size: 20px;
-  color: #ffffff;
-  margin-right: 20px
+  font-size: 15px;
+  color: #000000;
+  margin-right: 15px
 }
 .header__right__search {
   display: inline-block;
