@@ -354,7 +354,7 @@ display:block;
 }
 .header__menu ul li a {
   font-size: 18px;
-  color: #ffffff;
+  color: #000000;
   display: block;
   text-transform: uppercase;
   position: relative;
