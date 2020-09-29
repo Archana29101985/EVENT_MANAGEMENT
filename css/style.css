@@ -280,7 +280,7 @@ border-left: 1px solid #da7e7e;
 display:block;
 }
 .header__menu ul a{
-  color: #fff;
+  color: #000000;
   text-decoration:none;
   font-size:20px;
   line-height:15px;
